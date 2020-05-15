@@ -1,0 +1,21 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Dracula Soft",
+
+    //fonte terminal 
+    "terminal.integrated.fontSize": 14,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+
+    //configs Fonte
+    "editor.tabSize": 2,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    "explorer.compactFolders": false,
+    "workbench.editor.labelFormat": "short",
+
+    "editor.rulers": [80,120] //barinhas para manter o code. 
+}
